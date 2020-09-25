@@ -12,7 +12,7 @@ The purpose of this project is to provide tempearture data for the months of Jun
 - The standard deviation for December is higher than July. The standard deviation for December was 3.75, while the standard deviation for June was 3.26.
 
 
-   ![Temp]
+   ![Temp](https://github.com/ducluu27/Surfs_Up/blob/master/Temp.png)
 
 
 ### Summary
